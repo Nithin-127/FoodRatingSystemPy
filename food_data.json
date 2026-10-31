@@ -1,0 +1,18 @@
+[
+    {
+        "food_name": "break fast",
+        "rating": 2
+    },
+    {
+        "food_name": "Dosa",
+        "rating": 5
+    },
+    {
+        "food_name": "Chappathi",
+        "rating": 5
+    },
+    {
+        "food_name": "PavBajji",
+        "rating": 3
+    }
+]
